@@ -15,3 +15,30 @@ The Supply Chain team decided to use a standard approach to measure the service 
 1. Create the metrics according to the metrics list.
 2. Create a dashboard according to the requirements provided by stakeholders in the business review meeting. You will be provided with the transcript of this business    review meeting in the form of a comic.
 3. Create relevant insights that are not provided in the metric list/stakeholder meeting.
+
+**Steps:**
+1) Importing and Transformations done using python.
+2) Data modeling
+3) Identifying & Creating Metrics using DAX measures.
+3) Identifying suitable visuals to achieve desired goal.
+4) Creating Dashboard. 
+
+
+**MEASURES CREATED:**
+OTIF%
+OT%
+IF%
+OCT
+LIFR%
+VOFR%
+AV_OTIF
+AV_OT
+AV_IF, etc.
+
+** THINGS LEARNT **
+
+- First practical application of Power Bi
+- How to create measures using DAX
+- Learnt, how to use Page navigation to create cool interactive controls
+- Learnt how to create dynamic axis in visuals using parameters. Tutorial: https://youtu.be/1eurc0EY2Xg
+- Learnt how to use "Edit Ineractions" to control interaction of slicers and filters with certain visuals
