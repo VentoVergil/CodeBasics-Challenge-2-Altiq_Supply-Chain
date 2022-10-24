@@ -36,7 +36,7 @@ AV_OTIF
 AV_OT
 AV_IF, etc.
 
-** THINGS LEARNT **
+**THINGS LEARNT:**
 
 - First practical application of Power Bi
 - How to create measures using DAX
