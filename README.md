@@ -1,4 +1,5 @@
 # CodeBasics-Challenge-2-Altiq_Supply-Chain
 Supply Chain Issue in FMCG Domain
 
-[Challenge : (https://codebasics.io/event/codebasics-resume-project-challenge)
+Challenge : https://codebasics.io/event/codebasics-resume-project-challenge
+
